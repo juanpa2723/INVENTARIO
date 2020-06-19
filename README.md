@@ -12,7 +12,7 @@ DIAGRAMA DE GANT                            <br>
 -> informes                                 <br>
 
 LEVANTAMIENTO DE INFORMACION                <br>
-°Encuesta de desarrollo de software.pdf     <br>
+°Encuesta de desarrollo de software.pdf     
 °Resultados de encuesta.pdf
 
 MOCKUPS                                     <br>
