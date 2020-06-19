@@ -4,7 +4,7 @@ CASOS DE USO                                <br>
 °Casos de uso.pdf
 
 DIAGRAMA DE GANT                            <br>
-°plantilla gestion del proyecto.pdf
+°Plantilla gestion del proyecto.pdf
 
 -> planificacion                            <br>
 -> diagrama de gant                         <br>
@@ -15,11 +15,14 @@ LEVANTAMIENTO DE INFORMACION                <br>
 °Encuesta de desarrollo de software.pdf     
 °Resultados de encuesta.pdf
 
+
 MOCKUPS                                     <br>
 Mockups.pdf
 
+
 MODELOS                                     <br>
 °Modelo entidad relacion.pdf
+
 
 PROYECTO INVENTARIO                         <br>
 °Proyecto inventario.pdf
