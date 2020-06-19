@@ -15,14 +15,11 @@ LEVANTAMIENTO DE INFORMACION                <br>
 °Encuesta de desarrollo de software.pdf     
 °Resultados de encuesta.pdf
 
-
 MOCKUPS                                     <br>
 Mockups.pdf
 
-
 MODELOS                                     <br>
 °Modelo entidad relacion.pdf
-
 
 PROYECTO INVENTARIO                         <br>
 °Proyecto inventario.pdf
