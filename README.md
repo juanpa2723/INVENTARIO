@@ -1,6 +1,6 @@
 # INVENTARIO
 
-CASOS DE USO
+CASOS DE USO <br>
 °Casos de uso.pdf
 
 DIAGRAMA DE GANT
