@@ -1,9 +1,9 @@
 # INVENTARIO
 
-CASOS DE USO                                <br>
+<b> CASOS DE USO </b>                       <br>
 °Casos de uso.pdf
 
-DIAGRAMA DE GANT                            <br>
+<b> DIAGRAMA DE GANT </b>                   <br>
 °Plantilla gestion del proyecto.pdf
 
 -> planificacion                            <br>
@@ -11,17 +11,17 @@ DIAGRAMA DE GANT                            <br>
 -> resupuestos                              <br>
 -> informes                                 <br>
 
-LEVANTAMIENTO DE INFORMACION                <br>
+<b> LEVANTAMIENTO DE INFORMACION </b>       <br>
 °Encuesta de desarrollo de software.pdf     
 °Resultados de encuesta.pdf
 
-MOCKUPS                                     <br>
+<b> MOCKUPS </b>                            <br>
 Mockups.pdf
 
-MODELOS                                     <br>
+<b> MODELOS </b>                            <br>
 °Modelo entidad relacion.pdf
 
-PROYECTO INVENTARIO                         <br>
+<b> PROYECTO INVENTARIO </b>                <br>
 °Proyecto inventario.pdf
 
 -> planteamiento del problema               <br>
