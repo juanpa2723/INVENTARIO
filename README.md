@@ -12,7 +12,7 @@
 -> informes                                 <br>
 
 <B> Diamgrama</b> <br>
-Diagrama.pdf
+° Diagrama.pdf
 
 <b> LEVANTAMIENTO DE INFORMACION </b>       <br>
 °Encuesta de desarrollo de software.pdf     
