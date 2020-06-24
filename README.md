@@ -11,7 +11,7 @@
 -> resupuestos                              <br>
 -> informes                                 <br>
 
-<B> Diamgrama</b> <br>
+<b> Diagrama</b> <br>
 ° Diagrama.pdf
 
 <b> LEVANTAMIENTO DE INFORMACION </b>       <br>
@@ -22,7 +22,8 @@
 Mockups.pdf
 
 <b> MODELOS </b>                            <br>
-°Modelo entidad relacion.pdf
+°Modelo entidad relacion.pdf                <br>
+°Modelo relacional.pdf
 
 <b> PROYECTO INVENTARIO </b>                <br>
 °Proyecto inventario.pdf
