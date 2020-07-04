@@ -11,8 +11,8 @@
 -> resupuestos                              <br>
 -> informes                                 <br>
 
-<b> Diagrama</b> <br>
-° Diagrama.pdf
+<b> Diagrama de despliegue</b> <br>
+° diagrama despliegue.pdf
 
 <b> LEVANTAMIENTO DE INFORMACION </b>       <br>
 °Encuesta de desarrollo de software.pdf     
