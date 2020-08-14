@@ -11,7 +11,7 @@
 -> resupuestos                              <br>
 -> informes                                 <br>
 
-<b> Diagrama de despliegue</b> <br>
+<b> DIAGRAMA DE DESPLIEGUE</b>              <br>
 ° diagrama despliegue.pdf
 
 <b> LEVANTAMIENTO DE INFORMACION </b>       <br>
@@ -26,7 +26,8 @@ Mockups.pdf
 °Modelo relacional.pdf
 
 <b> PROYECTO INVENTARIO </b>                <br>
-°Proyecto inventario.pdf
+°Proyecto inventario.pdf                    <br>
+°Proyecto inventario2.pdf               
 
 -> planteamiento del problema               <br>
 -> objetivo general                         <br>
