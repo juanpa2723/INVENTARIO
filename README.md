@@ -45,7 +45,7 @@ Mockups.pdf
 -> casos de uso                             <br>
 -> casos de uso extendido                   <br>
 
-<b> Prototipo_sw</b>
+<b> PROTOTIPO_SW</b>                        <br>
 ºcss                                        <br>
 ºHTML                                       <br>
 ºjs                                         <br>
