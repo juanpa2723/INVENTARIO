@@ -10,7 +10,8 @@
 -> diagrama de gant                         <br>
 -> resupuestos                              <br>
 -> informes                                 <br>
-<b> DICCIONARIO </b>
+
+<b> DICCIONARIO </b>                        <br>
 º datadict-template.html
 
 <b> DIAGRAMA DE DESPLIEGUE</b>              <br>
