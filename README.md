@@ -44,4 +44,9 @@ Mockups.pdf
 -> requerimientos no funcionales            <br>
 -> casos de uso                             <br>
 -> casos de uso extendido                   <br>
+
+<b> Prototipo_sw</b>
+ºcss                                        <br>
+ºHTML                                       <br>
+ºjs                                         <br>
  
