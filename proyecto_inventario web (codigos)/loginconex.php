@@ -23,7 +23,7 @@ $nr = mysqli_num_rows($query);
 
 if ($nr == 1)
 {
-	header("location: pagina_principal.php");
+	header("location: informacion/pagina_principal.php");
 
     //echo "bienvenido";
 }
