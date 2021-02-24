@@ -38,11 +38,11 @@
 <div class="container-menu">
 	<div class="cont-menu">
 		<nav>
-        <a href="../pagina_principal.php"><i class='bx bxs-home'></i> Inicio</a>
-        <a href="producto.php"><i class='bx bxs-shopping-bags'></i> Productos</a>
+        <a href="pagina_principal.php"><i class='bx bxs-home'></i> Inicio</a>
+        <a href="producto/producto.php"><i class='bx bxs-shopping-bags'></i> Productos</a>
         <a href="usuario.php"><i class='bx bxs-user'></i> Usuarios</a>
         <a href="venta.php"><i class='bx bxs-bar-chart-alt-2'></i> Ventas</a>
-        <a href="reporte.php"><i class='bx bxs-book'></i> Reportes</a>
+        <a href="reporte/reporte.php"><i class='bx bxs-book'></i> Reportes</a>
         <a href="../index.php"><i class='bx bxs-door-open'></i> Cerrar sesion</a>
 		</nav>
 
