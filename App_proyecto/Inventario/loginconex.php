@@ -1,4 +1,7 @@
 <?php
+header("location: vista/pagina_principal/pagina_ptincipal.php" )
+/*
+?>
  
  require 'conex.php';
 
@@ -35,4 +38,3 @@ elseif ($nr == 0)
 	//echo "no ingreso";
 }
 
-?>
