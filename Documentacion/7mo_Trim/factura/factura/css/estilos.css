@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Montserrat+Alternates|Poppins&display=swap');
+	*{
+		margin: 0;
+		padding: 0;
+	}
+
+	body{
+		background: hsl(0, 0%, 93%);
+		font-family: 'Montserrat Alternates', sans-serif;
+	}
+
+	@media (min-width: 1300px){ 
+    .container {
+    max-width: 1400px;
+    }}
+
+ /*LOGO*/
+	.logo {
+		position: relative; /*hace que muevas relativamente su posición*/
+		top: -50px; /*Pixeles arriba de su posición natural (puede ser negativo)*/
+		left: -50px; /*Pixeles a la izquierda de su posición natural*/
+		right: 10px; /*Pixeles a la derecha de su posición natural*/
+	  }
+ /*FIN LOGO*/
+
+/* SECTION */
+
+.contenedor-servicio{
+	display: flex;
+	justify-content:space-evenly;
+	align-items: center;
+	flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+}
+
+.contenedor-servicio img{
+	width: 40%;
+}
+
+.checklist-servicio{
+	width: 45%;
+}
+
+.n-service{
+margin-bottom:5px;
+color:#9f8ad0;
+}
+
+.subtitulo{ 
+margin-bottom:7px;
+color:#9f8ad0;
+text-align: center;
+}
+
+.text1{
+	color:#101010;
+}
+/* FIN SECTION */
+
+/* --- --- PIE DE PAGINA --- --- */
+
+.container-pie{
+	max-width: 2100px;
+}
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-color: #24262b;
+    padding: 0px 0;
+}
+.footer-col{
+   width: 25%;
+   padding: 0 50px;
+   color: #C7C7C7;
+}
+.footer-col h4{
+	font-size: 18px;
+	color: #ffffff;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 500;
+	position: relative;
+	line-height: 2.0;
+}
+.footer-col h4::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #6f83c4;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: 300;
+	color: #bbbbbb;
+	display: block;
+	transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footer-col .social-links a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255, 255, 255, 0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #ffffff;
+	transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover{
+	color: #24262b;
+	background-color: #ffffff;
+}
+
+/*responsive*/
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+}
+
+.container-footer{
+    width: 100%;
+    background: #101010;
+    display:flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.copyright{
+    color: #C7C7C7;
+}
+
+.copyright a{
+    text-decoration: none;
+    color: white;
+}
+
+.information a{
+    text-decoration:none;
+    color: #c7c7c7;
+}
+
+.text{
+    font-size: 14px;
+    color:#726f6f;
+    margin-top:20px;
+
+}
+
+a:not([href]):not([tabindex]) {
+    color: #C7C7C7;
+}
+/* --- --- FIN PIE DE PAGINA --- --- */
+
+.icon-eye{
+    position: absolute;
+	right:20px;
+	top:43%;
+	transform: translate(-50%);
+    cursor:pointer;
+    transition: 0.4s ease all;
+}
+
+.icon-eye:hover{ 
+    color: steelblue;
+}
+
+.icon-eye2{
+    position: absolute;
+	right:10px;
+	top:58%;
+	transform: translate(-50%);
+    cursor:pointer;
+    transition: 0.4s ease all;
+}
+
+.icon-eye2:hover{ 
+    color: steelblue;
+}
