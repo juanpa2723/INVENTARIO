@@ -1,0 +1,36 @@
+Caso de uso	CU01- Iniciar sesion
+Versión	V1 
+Actores	Usuario (empleado), administrador y Sistema
+Fuentes	Libro de Excel 
+Objetivos asociados	Ingresar datos para iniciar sesion 
+Descripción	El sistema deberá comportarse tal como se describe en el siguiente caso de uso: El usuario (empleado) y el administrador deberán ingresar los datos como e-mail y contraseña para poder acceder a la página principal del sistema
+Precondición	El usuario debe estar registrado para acceder a inicio de sesion
+Secuencia
+Normal	Paso	Acción
+ 	 	Actor	Sistema
+ 	1	Ingresa a la pagina 
+	Muestra en el encabezado la opción de entrar
+
+ 	2	Selecciona la opción de iniciar sesion	Muestra un formulario de inicio de sesion con los siguientes controles: email y contraseña
+ 	3	Llena los controles de texto para ingresar a la pagina	En el formulario muestra un control de iniciar sesion
+ 	4	Da click en el botón de iniciar sesion	Valida que los datos sean correctos y evalúa si la contraseña e email coinciden con el registro del usuario
+Escenario Alternativo	Paso	Acción
+ 	 	Actor	Sistema
+ 	1.1	Ingresar a la pagina	Muestra en el encabezado la opción de entrar
+	1.2	Selecciona la opción de inicio de sesion	Muestra un formulario con los controles nombre, email y contraseña
+ 	1.3	Llena los controles para ingreso a la pagina	En el formulario se muestra un control de inicio de sesion
+ 	1.4	Da click en el botón de iniciar sesion	se valida los datos para ingresar y se crea una alerta de inicio de sesion exitoso
+Postcondición	 El sistema debe permitir el acceso al usuario (empleado) y administrador
+Excepciones	Paso	Acción
+ 	 	Actor	Sistema
+ 	1.1	El administrador como el usuario (empleado) serán los únicos en acceder al sistema.  	Registrara a las personas que son empleados y administradores de tiendas
+Rendimiento	Paso	Cota de tiempo
+	1	3 segundos
+Frecuencia esperada	1.0 Hz / 1.0s
+Importancia	vital
+Urgencia	inmediatamente
+Comentarios	Sin comentarios
+
+
+
+
